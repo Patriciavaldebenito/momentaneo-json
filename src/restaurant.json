@@ -2,7 +2,7 @@
 
 			{
                 
-                "type-food":"vegetariana",
+                "type_food":"vegetariana",
 				"name": "Ginataang Sugpo",
                 "price": 230.00,
                 "recycling":true,
@@ -10,7 +10,7 @@
 			},
 			{
                 
-                "type-food":"vegetariana",
+                "type_food":"vegetariana",
 				"name": "Steam na Sugpo",
                 "price": 205.00,
                 "recycling":false,
@@ -18,7 +18,7 @@
 			},
 			{
                 
-                "type-food":"vegana",
+                "type_food":"vegana",
 				"name": "Ginataang Pusit",
                 "price": 185.00,
                 "recycling":false,
@@ -26,7 +26,7 @@
 			},
 			{
                 
-                "type-food":"sin gluten",
+                "type_food":"sin gluten",
 				"name": "Inihaw na Pusit",
                 "price": 175.00,
                 "recycling":false,
@@ -34,7 +34,7 @@
 			},
 			{
                 
-                "type-food":"vegana",
+                "type_food":"vegana",
 				"name": "Kare-Kare Seafoods",
                 "price": 230.00,
                 "recycling":true,
@@ -42,7 +42,7 @@
 			},
 			{
                 
-                "type-food":"sin gluten",
+                "type_food":"sin gluten",
 				"name": "Sweet and Sour Shrimp",
                 "price": 205.00,
                 "recycling":false,
@@ -50,7 +50,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Camaron",
                 "price": 140.00,
                 "recycling":false,
@@ -58,7 +58,7 @@
 			},
 			{
                 
-                "type-food":"vegetariana",
+                "type_food":"vegetariana",
 				"name": "Calamares",
                 "price": 130.00,
                 "recycling":false,
@@ -66,7 +66,7 @@
 			},
 			{
                 
-                "type-food":"vegana",
+                "type_food":"vegana",
 				"name": "Kare-Kare Tuna",
                 "price": 85.00,
                 "recycling":false,
@@ -74,7 +74,7 @@
 			},
 			{
                 
-                "type-food":"sin gluten",
+                "type_food":"sin gluten",
 				"name": "Inihaw na Pla-Pla",
                 "price": 175.00,  
                  "recycling":false, 
@@ -82,7 +82,7 @@
 			},
 			{
                 
-                "type-food":"sin glute",
+                "type_food":"sin glute",
 				"name": "Prito na Pla-Pla",
                 "price": 200.00,
                 "recycling":true,
@@ -90,7 +90,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Ginataan na Pla-Pla",
                 "price": 230.00,
                 "recycling":false,
@@ -98,7 +98,7 @@
 			},
 			{
                 
-                "type-food":"vegetariana",
+                "type_food":"vegetariana",
 				"name": "Sinugno na Pla-Pla",
                 "price": 220.00,
                 "recycling":false,
@@ -106,7 +106,7 @@
 			},
 			{
                 
-                "type-food":"vegetariana",
+                "type_food":"vegetariana",
 				"name": "Sweet and Sour na Pla-Pla",
                 "price": 230.00,
                 "recycling":false,
@@ -114,7 +114,7 @@
 			},
 			{
                 
-                "type-food":"vegana",
+                "type_food":"vegana",
 				"name": "Steam Pla-Pla",
                 "price": 205.00,   
                 "recycling":false,
@@ -122,7 +122,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Pinaputok na Pla-Pla",
                 "price": 205.00,
                 "recycling":true,
@@ -130,7 +130,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Sinigang na Pla-Pla",
                 "price": 205.00,
                 "recycling":false,
@@ -138,7 +138,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Inihaw na Hito",
                 "price": 190.00,   
                 "recycling":false,
@@ -146,7 +146,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Pritong Hito",
                 "price": 210.00,   
                 "recycling":false,
@@ -154,7 +154,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Ginataan Hito",
                 "price": 230.00,
                 "recycling":true,
@@ -162,7 +162,7 @@
 			},
 			{
                 
-                "type-food":"",
+                "type_food":"",
 				"name": "Sweet and Sour Lapu-Lapu",
                 "price": 70.00,
                 "recycling":false,
@@ -170,7 +170,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Sinigang na Lapu-Lapu",
                 "price": 70.00,
                 "recycling":false,
@@ -178,7 +178,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Ginataan Alimango",
                 "price": 90.00,
                 "recycling":true,
@@ -186,7 +186,7 @@
 			},
 			{
                 
-                "type-food":"sin preferencia",
+                "type_food":"sin preferencia",
 				"name": "Alimango con Chili",
                 "price": 90.00,
                 "recycling":false,
@@ -194,6 +194,4 @@
 			}
 		
 		]
-	
-
 
