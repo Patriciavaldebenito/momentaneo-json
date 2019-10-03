@@ -1,0 +1,71 @@
+<ion-header>
+  <ion-list>
+    <ion-item>
+      <ion-label class="ion-text-wrap">
+        Lo antes posible
+        <ion-icon slot="icon-only" name="md-arrow-forward"></ion-icon>
+        Matucana 1525 <ion-icon slot="icon-only" name="ios-arrow-dropdown" slot="end"></ion-icon>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+</ion-header>
+
+<ion-content>
+  <!-- Default Segment -->
+  <ion-segment color="danger" mode="ios" scrollable>
+    <ion-segment-button checked layout="icon-start">
+      <!-- <ion-icon name=""></ion-icon>-->
+      <img src="../../../assets/img/1463234.svg" alt="" width="20px" class="aDomicilio">
+      <ion-label>A domicilio</ion-label>
+    </ion-segment-button>
+    <ion-segment-button checked layout="icon-start">
+      <!-- <ion-icon name=""></ion-icon>-->
+      <img src="../../../assets/img/parallevar.png" alt="" width="20px" class="aDomicilio">
+      <ion-label>Para llevar</ion-label>
+    </ion-segment-button>
+  </ion-segment>
+
+
+  <ion-segment scrollable shape="round" mode="md" color="primary">
+
+    <ion-segment-button *ngFor="let categoria of categorias" [value]="categoria">
+      <ion-label text-capitalize>{{ categoria }}</ion-label>
+    </ion-segment-button>
+
+
+  </ion-segment>
+
+  <ion-slides pager="true" class="slide-full">
+    <ion-slide *ngFor="let slide of slides">
+
+      <ion-card>
+        <img [src]="slide.img">
+
+      </ion-card>
+    </ion-slide>
+  </ion-slides>
+
+  <ion-tabs>
+    <ion-tab-bar slot="bottom">
+
+      <ion-tab-button [routerLink]="['/ppalpage']">
+        <ion-icon name="md-home"></ion-icon>
+      </ion-tab-button>
+
+      <ion-tab-button [routerLink]="['/alert']">
+        <ion-icon name="md-search"></ion-icon>
+      </ion-tab-button>
+
+      <ion-tab-button [routerLink]="['/alert']">
+        <ion-icon name="md-bookmarks"></ion-icon>
+      </ion-tab-button>
+
+      <ion-tab-button [routerLink]="['/alert']">
+        <ion-icon name="md-person"></ion-icon>
+      </ion-tab-button>
+
+    </ion-tab-bar>
+  </ion-tabs>
+
+</ion-content>
