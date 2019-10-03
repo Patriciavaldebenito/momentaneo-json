@@ -1,7 +1,7 @@
  [
 
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegetariana",
 				"name": "Ginataang Sugpo",
                 "price": 230.00,
@@ -9,7 +9,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegetariana",
 				"name": "Steam na Sugpo",
                 "price": 205.00,
@@ -17,7 +17,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegana",
 				"name": "Ginataang Pusit",
                 "price": 185.00,
@@ -25,7 +25,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin gluten",
 				"name": "Inihaw na Pusit",
                 "price": 175.00,
@@ -33,7 +33,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegana",
 				"name": "Kare-Kare Seafoods",
                 "price": 230.00,
@@ -41,7 +41,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin gluten",
 				"name": "Sweet and Sour Shrimp",
                 "price": 205.00,
@@ -49,7 +49,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Camaron",
                 "price": 140.00,
@@ -57,7 +57,7 @@
                 "img":"http://img.fenixzone.net/i/l89qdFY.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegetariana",
 				"name": "Calamares",
                 "price": 130.00,
@@ -65,7 +65,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegana",
 				"name": "Kare-Kare Tuna",
                 "price": 85.00,
@@ -73,7 +73,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin gluten",
 				"name": "Inihaw na Pla-Pla",
                 "price": 175.00,  
@@ -81,7 +81,7 @@
                  "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin glute",
 				"name": "Prito na Pla-Pla",
                 "price": 200.00,
@@ -89,7 +89,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Ginataan na Pla-Pla",
                 "price": 230.00,
@@ -97,7 +97,7 @@
                 "img":"http://img.fenixzone.net/i/pLV4ByN.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegetariana",
 				"name": "Sinugno na Pla-Pla",
                 "price": 220.00,
@@ -105,7 +105,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegetariana",
 				"name": "Sweet and Sour na Pla-Pla",
                 "price": 230.00,
@@ -113,7 +113,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"vegana",
 				"name": "Steam Pla-Pla",
                 "price": 205.00,   
@@ -121,7 +121,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Pinaputok na Pla-Pla",
                 "price": 205.00,
@@ -129,7 +129,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Sinigang na Pla-Pla",
                 "price": 205.00,
@@ -137,7 +137,7 @@
                 "img":"http://img.fenixzone.net/i/MUEROg0.png"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Inihaw na Hito",
                 "price": 190.00,   
@@ -145,7 +145,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Pritong Hito",
                 "price": 210.00,   
@@ -153,7 +153,7 @@
                 "img":"http://img.fenixzone.net/i/JuLklRv.png"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Ginataan Hito",
                 "price": 230.00,
@@ -161,7 +161,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"",
 				"name": "Sweet and Sour Lapu-Lapu",
                 "price": 70.00,
@@ -169,7 +169,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Sinigang na Lapu-Lapu",
                 "price": 70.00,
@@ -177,7 +177,7 @@
                 "img":"http://img.fenixzone.net/i/IF3WLkb.jpeg"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Ginataan Alimango",
                 "price": 90.00,
@@ -185,7 +185,7 @@
                 "img":"http://img.fenixzone.net/i/siEBO1Q.png"
 			},
 			{
-                "type": "seafoods",
+                
                 "type-food":"sin preferencia",
 				"name": "Alimango con Chili",
                 "price": 90.00,
